@@ -1,0 +1,7 @@
+package: org.suren.autotest.web.framework.page
+DemoPage:
+  userName: admin
+  password: admin
+
+LoginPage:
+  phone: 18211156589
